@@ -734,7 +734,6 @@
 					"fontStyle": "normal",
 					"fontWeight": "700",
 					"letterSpacing": "0.025rem",
-					"lineHeight": "1",
 					"textTransform": "uppercase"
 				}
 			},
